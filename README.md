@@ -1,4 +1,4 @@
-# Common wordlists
+# Most common wordlists
 
 Generally, the best lists are based on pwned password (real world passwords previously exposed in data breaches), such as the infamous `rockyou.txt`. Others, are cultivated from larger dumps of millions of passwords and boiled down to the most commonly reoccurring items.
 Here is a (non-exhaustive) collection of the more important wordlists for discovery, enumeration, fuzzing, and exploitation.
