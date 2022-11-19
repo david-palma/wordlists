@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This tutorial has been made for educational purposes only, I don't promote malicious practices and I will not be responsible for any illegal activities.
+This repository is meant to provide open source resources for educational purposes only. I don't promote malicious practices and I will not be responsible for any illegal activities.
