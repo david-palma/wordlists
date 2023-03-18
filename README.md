@@ -19,10 +19,10 @@ Note: Kali Linux provides some password dictionary files as part of its standard
 - [John the Ripper](password-dictionaries/john-the-ripper.txt) (*3,106 lines*)
 - [Cain and Abel](password-dictionaries/cain-and-abel.txt) (*306,706 lines*)
 - [Conficker worm](password-dictionaries/conficker.txt) (*181 lines*)
-- [Dates 1900-2030](1900-2030.txt) (*48,664 lines*)
-- [Days](days.txt) (*6,240 lines*)
-- [Months](months.txt) (*13,431 lines*)
-- [Seasons](seasons.txt) (*5,390 lines*)
+- [Dates 1900-2030](password-dictionaries/1900-2030.txt) (*48,664 lines*)
+- [Days](password-dictionaries/days.txt) (*6,240 lines*)
+- [Months](password-dictionaries/months.txt) (*13,431 lines*)
+- [Seasons](password-dictionaries/seasons.txt) (*5,390 lines*)
 
 ## Passwords with WPA length
 
